@@ -66,7 +66,11 @@ $services = array(
 									'login' => '',
 									'password' => ''),
 
-					'uploaded_to' => array(	'enabled' => true,
+					'uploaded_net' => array(	'enabled' => true,
+									'account' => true,
+									'login' => '',
+									'password' => '')
+	                                'uptobox_com' => array(	        'enabled' => true,
 									'account' => true,
 									'login' => '',
 									'password' => '')
